@@ -2,7 +2,7 @@
 
 A client-side Minecraft fabric mod that weaves a glowing, permanent trail beneath your feet as you explore.
 
-![PathWeaver Logo](logo.png) ---
+![PathWeaver Logo](logo.png)
 
 ## 🚀 Overview
 
